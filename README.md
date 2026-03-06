@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;I'm+Abderrahmane+Imlouli;Cybersecurity+Student;Web+Developer;Linux+Enthusiast;Ethical+Hacker+in+Progress&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;I'm+Abderrahmane+Imlouli;Cybersecurity+Student;Web+Developer;Linux+Enthusiast;Ethical+Hacker+in+Progress&center=true&size=30">
   </a>
 </h1>
 
@@ -15,8 +15,8 @@
 <br>
 
 <p align="center">
-Hi 👋,<br>
-I'm <b>Abderrahmane Imlouli</b>, a Computer Engineering student specializing in <b>Cybersecurity</b> from Algeria 🇩🇿
+I'm <b>Abderrahmane Imlouli</b>,Computer Engineering — Cybersecurity specialization  
+Algeria
 <br><br>
 
 🎓 Third year engineering student in Cybersecurity  
@@ -37,9 +37,7 @@ I'm <b>Abderrahmane Imlouli</b>, a Computer Engineering student specializing in 
 <h2 align="center">🔥 Skills & Technologies 🔥</h2>
 
 <p align="center">
-
 <b>Programming languages</b><br><br>
-<p>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -49,7 +47,7 @@ I'm <b>Abderrahmane Imlouli</b>, a Computer Engineering student specializing in 
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 </p>
 <br><br>
-
+<p align="center">
 <b>Development</b><br><br>
 
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -60,15 +58,15 @@ I'm <b>Abderrahmane Imlouli</b>, a Computer Engineering student specializing in 
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-
+</p>
 <br><br>
-
+<p align="center">
 <b>Systems & Security</b><br><br>
 
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
+</p>
 </p>
 
 ---
@@ -84,26 +82,6 @@ I'm <b>Abderrahmane Imlouli</b>, a Computer Engineering student specializing in 
 🔹 Secure Backend Development  
 
 </p>
-
----
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
-<p align="center">
-
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=abderrahmane-imlouli&show_icons=true&theme=tokyonight"/>
-
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahmane-imlouli&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahmane-imlouli&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 <h2 align="center">🚀 Interests</h2>
 
@@ -121,5 +99,5 @@ I'm <b>Abderrahmane Imlouli</b>, a Computer Engineering student specializing in 
 ---
 
 <h3 align="center">
-"If you want to break systems, first you must understand them deeply."
+"<b>Fun fact:</b> If you want to break systems, first you must understand them deeply."
 </h3>
