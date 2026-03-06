@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;I'm+Abderrahmane+Imlouli;Cybersecurity+Student+%7C+Web+Developer;Linux+Enthusiast+%7C+Ethical+Hacker+in+Progress&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;I'm+Abderrahmane+Imlouli;Cybersecurity+Student;Web+Developer;Linux+Enthusiast;Ethical+Hacker+in+Progress&center=true&size=30">
   </a>
 </h1>
 
@@ -23,7 +23,7 @@ I'm <b>Abderrahmane Imlouli</b>, a Computer Engineering student specializing in 
 💻 Web developer & backend enthusiast  
 🐧 Linux user and open-source enthusiast  
 🔐 Currently learning <b>Web Penetration Testing</b>  
-🌐 Interested in networks, systems and ethical hacking  
+🌐 Interested in networks, systems , web dev and ethical hacking  
 📚 Studying for certifications like <b>CCNA, eWPT, eJPT</b>  
 <br><br>
 
@@ -38,8 +38,8 @@ I'm <b>Abderrahmane Imlouli</b>, a Computer Engineering student specializing in 
 
 <p align="center">
 
-<b>Programming</b><br><br>
-
+<b>Programming languages</b><br><br>
+<p>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -47,10 +47,10 @@ I'm <b>Abderrahmane Imlouli</b>, a Computer Engineering student specializing in 
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-
+</p>
 <br><br>
 
-<b>Web Development</b><br><br>
+<b>Development</b><br><br>
 
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
