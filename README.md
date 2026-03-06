@@ -6,30 +6,20 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://github.com/" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
-  <code><a href="#" title="LinkedIn"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="#" title="Portfolio"><img width="22" src="https://cdn-icons-png.flaticon.com/512/841/841364.png"> Portfolio</a></code>
-</h5>
-
-<br>
-
 <p align="center">
-I'm <b>Abderrahmane Imlouli</b>,Computer Engineering — Cybersecurity specialization  
-Algeria
+I'm <b>Abderrahmane Imlouli</b>, Computer Engineering — Cybersecurity specialization.<br> And a full stack web developer.
 <br><br>
 
-🎓 Third year engineering student in Cybersecurity  
-💻 Web developer & backend enthusiast  
+🎓 Third-year engineering student in Cybersecurity  
+💻 **Web Developer & Backend Enthusiast**  
 🐧 Linux user and open-source enthusiast  
 🔐 Currently learning <b>Web Penetration Testing</b>  
-🌐 Interested in networks, systems , web dev and ethical hacking  
+🌐 Focused on **web development, networks, systems, and ethical hacking**  
 📚 Studying for certifications like <b>CCNA, eWPT, eJPT</b>  
 <br><br>
 
-🧠 Technologies I enjoy working with include networking, security, and building web applications.  
-🚀 My goal is to become a highly skilled cybersecurity expert capable of understanding systems deeply — not just using tools.
-
+🧠 Technologies I enjoy working with include **building modern, secure, and responsive web applications**.  
+🚀 My goal is to become a highly skilled cybersecurity expert and a professional **full-stack web developer**.
 </p>
 
 ---
@@ -37,7 +27,7 @@ Algeria
 <h2 align="center">🔥 Skills & Technologies 🔥</h2>
 
 <p align="center">
-<b>Programming languages</b><br><br>
+<b>Programming Languages</b><br><br>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -46,10 +36,9 @@ Algeria
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 </p>
-<br><br>
+<br>
 <p align="center">
-<b>Development</b><br><br>
-
+<b>Web Development</b><br><br>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -59,45 +48,53 @@ Algeria
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 </p>
-<br><br>
+<br>
 <p align="center">
 <b>Systems & Security</b><br><br>
-
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
-</p>
 
----
 
-<h2 align="center">📚 Currently Learning</h2>
+<h2 >📚 Currently Learning</h2>
 
-<p align="center">
-
+🔹 Advanced Web Development (Full-Stack)  
 🔹 Web Application Penetration Testing  
-🔹 Advanced Networking  
 🔹 Linux Internals  
 🔹 Exploitation Techniques  
 🔹 Secure Backend Development  
+🔹 Advanced Networking  
 
-</p>
+---
 
-<h2 align="center">🚀 Interests</h2>
-
-<p align="center">
+<h2 >🚀 Interests</h2>
 
 🔐 Cybersecurity  
-🌐 Web Security  
-🐧 Linux  
+🌐 Web Security & Development  
+🐧 Linux & Open-Source  
 ⚙️ Systems Programming  
 ♟ Chess  
 🧠 Computer Science & Theory  
 
-</p>
-
 ---
 
 <h3 align="center">
-"<b>Fun fact:</b> If you want to break systems, first you must understand them deeply."
+"<b>Fun fact:</b> If you want to build great websites or break systems, first you must understand them deeply."
 </h3>
+
+---
+
+<h2 align="center">📫 Contact / Hire Me</h2>
+
+<p align="center">
+GitHub: <a href="https://github.com/abderrahmane-imlouli">abderrahmane-imlouli</a><br>
+<a href="mailto:abderrahmaneimlouli@gmail.com" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/Email-✉️-blue?style=for-the-badge&logo=gmail" alt="Email">
+</a>
+<a href="www.linkedin.com/in/abderrahmane-imlouli" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LinkedIn-🔗-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+</p>
