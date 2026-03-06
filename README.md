@@ -88,7 +88,7 @@ I'm <b>Abderrahmane Imlouli</b>, Computer Engineering — Cybersecurity speciali
 <a target="_blank" href="https://github.com/abderrahmane-imlouli">
   <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"/>
 </a>
-<a target="_blank" href="mailto:abderrahmaneimlouli@gmail.com">
+<a target="_blank" href="mailto:abderrahmaneimlouli0@gmail.com">
   <img src="https://img.icons8.com/doodle/40/000000/email.png" alt="Email"/>
 </a>
 </p>
